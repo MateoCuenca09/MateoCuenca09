@@ -31,6 +31,7 @@ Electronic Engineer (UCC). I lead architecture, review code and mentor developer
   → demo: [`mcp-sql-gateway`](https://github.com/MateoCuenca09/mcp-sql-gateway)
 - **Power BI refresh orchestration with Durable Functions** — replaced Data Factory polling,
   cutting refresh cost by **~90%** (≈US$50 → US$5/month) and eliminating false "success" runs.
+  → demo: [`durable-powerbi-refresh`](https://github.com/MateoCuenca09/durable-powerbi-refresh)
 - **SAP integration overhaul** — replaced ~23 standalone scripts with an 11-job OData
   extractor with monitoring and Teams alerts.
 - **Omnichannel contact-center middleware** — two-way bridge between Genesys Cloud and
